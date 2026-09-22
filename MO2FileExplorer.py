@@ -4,12 +4,10 @@
 # it in the plugin list too. Tick boxes at the top of the dropdown narrow the results: which kinds to show, enabled or
 # disabled mods, and whether separators are listed.
 #
-# The owner, 2026-09-22: "look at this mod: https://www.nexusmods.com/skyrimspecialedition/mods/165559 and make a
-# plugin that adds a search bar to the area inbetween the profile selector and the toolbar area and theres a drop
-# down box with search results and some quick filters for different things to exclude them or include them like the
-# filters we made earlier so some check boxes in the dropdown to narrow search results". The reference is Alhimik's
-# Advanced Mod Search Plugin (an F3 window with Mods / Plugins / Files tabs whose picks scroll the list); this one is
-# inline, with the filters as tick boxes instead of tabs.
+# The owner, 2026-09-22: "make a plugin that adds a search bar to the area inbetween the profile selector and the
+# toolbar area and theres a drop down box with search results and some quick filters for different things to exclude
+# them or include them like the filters we made earlier so some check boxes in the dropdown to narrow search results".
+# Inline, always there, with the filters as tick boxes.
 #
 # HOW IT SEARCHES. Every word typed must appear (any case, any order) in the mod name, the plugin file name or the
 # file's path inside its mod. Mods and plugins are indexed at once (a directory listing per mod); files are indexed by a

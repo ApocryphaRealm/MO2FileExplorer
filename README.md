@@ -6,9 +6,6 @@ tool buttons above the mod list. Type, and a dropdown lists matches across **mod
 selected, with its separator expanded - a plugin pick also selects the plugin in the right-hand list.
 Tick boxes along the top of the dropdown narrow the results.
 
-Inspired by Alhimik's Advanced Mod Search Plugin (an F3 window with Mods / Plugins / Files tabs);
-this one is inline, always there, with the filters as tick boxes instead of tabs.
-
 ## How it searches
 
 * Every word you type must appear - any order, any case - in the mod name, the plugin file name, or

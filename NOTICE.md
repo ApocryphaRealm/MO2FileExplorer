@@ -19,11 +19,8 @@ SPDX-License-Identifier: GPL-3.0-or-later
 Every mod of this project is GPL-3.0-or-later by default (the owner, 2026-09-13). The plugin is one Python file of
 our own; it runs inside Mod Organizer 2's Python plugin host (`mobase`, PyQt6) and links nothing else.
 
-## What it builds on and what inspired it
+## What it builds on
 
 Mod Organizer 2 (https://github.com/ModOrganizer2/modorganizer, GPL-3.0) provides the plugin API and the widgets.
-The idea - one search across mods, plugins and files whose pick scrolls the list - is Alhimik's Advanced Mod Search
-Plugin (https://www.nexusmods.com/skyrimspecialedition/mods/165559); no code from it is used, and this one is inline
-with tick-box filters rather than a hotkey window with tabs.
 
 Source code: https://github.com/ApocryphaRealm/MO2FileExplorer
